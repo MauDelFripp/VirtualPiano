@@ -1,0 +1,813 @@
+fileFormatVersion: 2
+guid: ad899ea55170ca941a76b7aee512eaaf
+timeCreated: 1492652628
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Key100
+    100002: Key101
+    100004: Key102
+    100006: Key103
+    100008: Key104
+    100010: Key105
+    100012: Key106
+    100014: Key107
+    100016: Key108
+    100018: Key21
+    100020: Key22
+    100022: Key23
+    100024: Key24
+    100026: Key25
+    100028: Key26
+    100030: Key27
+    100032: Key28
+    100034: Key29
+    100036: Key30
+    100038: Key31
+    100040: Key32
+    100042: Key33
+    100044: Key34
+    100046: Key35
+    100048: Key36
+    100050: Key37
+    100052: Key38
+    100054: Key39
+    100056: Key40
+    100058: Key41
+    100060: Key42
+    100062: Key43
+    100064: Key44
+    100066: Key45
+    100068: Key46
+    100070: Key47
+    100072: Key48
+    100074: key49
+    100076: Key50
+    100078: Key51
+    100080: Key52
+    100082: Key53
+    100084: Key54
+    100086: Key55
+    100088: Key56
+    100090: Key57
+    100092: Key58
+    100094: Key59
+    100096: Key60
+    100098: Key61
+    100100: Key62
+    100102: Key63
+    100104: Key64
+    100106: Key65
+    100108: Key66
+    100110: Key67
+    100112: Key68
+    100114: Key69
+    100116: Key70
+    100118: Key71
+    100120: Key72
+    100122: Key73
+    100124: Key74
+    100126: Key75
+    100128: Key76
+    100130: Key77
+    100132: Key78
+    100134: Key79
+    100136: Key80
+    100138: Key81
+    100140: Key82
+    100142: Key83
+    100144: Key84
+    100146: Key85
+    100148: Key86
+    100150: Key87
+    100152: Key88
+    100154: Key89
+    100156: Key90
+    100158: Key91
+    100160: Key92
+    100162: Key93
+    100164: key94
+    100166: Key95
+    100168: Key96
+    100170: Key97
+    100172: Key98
+    100174: key99
+    100176: Mesh1 Group3 Group2 Group1 Model
+    100178: Mesh10 Roda_1_3 Group10 Rod_zio1 Group2 Group1 Model
+    100180: Mesh11 Roda_1_4 Group10 Rod_zio1 Group2 Group1 Model
+    100182: Mesh111 Group18 Group1 Model
+    100184: Mesh112 Group20 Group19 Group1 Model
+    100186: Mesh113 book2_1 Group19 Group1 Model
+    100188: Mesh114 Pe_a1 Group19 Group1 Model
+    100190: Mesh115 Pe_a2 Group19 Group1 Model
+    100192: Mesh116 Group22 Group21 Group1 Model
+    100194: Mesh117 Group23 Group21 Group1 Model
+    100196: Mesh118 cover1 Group1 Model
+    100198: Mesh119 petals1 Group1 Model
+    100200: Mesh12 Barra1 Group11 Group1 Model
+    100202: Mesh120 petals1 Group1 Model
+    100204: Mesh121 petals1 Group1 Model
+    100206: Mesh122 Group25 Group24 petbox1 Group1 Model
+    100208: Mesh123 Group26 Group24 petbox1 Group1 Model
+    100210: Mesh124 Suporte__pedal_1 Group24 petbox1 Group1 Model
+    100212: Mesh125 Suporte__pedal_2 Group24 petbox1 Group1 Model
+    100214: Mesh126 Group28 Rod_zio2 Group27 Perna1 Group1 Model
+    100216: Mesh127 Group29 Rod_zio2 Group27 Perna1 Group1 Model
+    100218: Mesh128 Group30 Rod_zio2 Group27 Perna1 Group1 Model
+    100220: Mesh129 Group31 Rod_zio2 Group27 Perna1 Group1 Model
+    100222: Mesh13 Barra2 Group11 Group1 Model
+    100224: Mesh130 Suporte3 Group32 Rod_zio2 Group27 Perna1 Group1 Model
+    100226: Mesh131 Suporte4 Group32 Rod_zio2 Group27 Perna1 Group1 Model
+    100228: Mesh132 Roda_1_5 Group33 Rod_zio2 Group27 Perna1 Group1 Model
+    100230: Mesh133 Roda_1_6 Group33 Rod_zio2 Group27 Perna1 Group1 Model
+    100232: Mesh134 Roda_1_7 Group34 Rod_zio2 Group27 Perna1 Group1 Model
+    100234: Mesh135 Roda_1_8 Group34 Rod_zio2 Group27 Perna1 Group1 Model
+    100236: Mesh136 Group27 Perna1 Group1 Model
+    100238: Mesh137 Group36 Rod_zio3 Group35 Perna2 Group1 Model
+    100240: Mesh138 Group37 Rod_zio3 Group35 Perna2 Group1 Model
+    100242: Mesh139 Group38 Rod_zio3 Group35 Perna2 Group1 Model
+    100244: Mesh14 Barra3 Group11 Group1 Model
+    100246: Mesh140 Group39 Rod_zio3 Group35 Perna2 Group1 Model
+    100248: Mesh141 Suporte5 Group40 Rod_zio3 Group35 Perna2 Group1 Model
+    100250: Mesh142 Suporte6 Group40 Rod_zio3 Group35 Perna2 Group1 Model
+    100252: Mesh143 Roda_1_9 Group41 Rod_zio3 Group35 Perna2 Group1 Model
+    100254: Mesh144 Roda_1_10 Group41 Rod_zio3 Group35 Perna2 Group1 Model
+    100256: Mesh145 Roda_1_11 Group42 Rod_zio3 Group35 Perna2 Group1 Model
+    100258: Mesh146 Roda_1_12 Group42 Rod_zio3 Group35 Perna2 Group1 Model
+    100260: Mesh147 Group35 Perna2 Group1 Model
+    100262: Mesh148 legs1 Group1 Model
+    100264: Mesh15 Barra4 Group11 Group1 Model
+    100266: Mesh16 Barra5 Group11 Group1 Model
+    100268: Mesh17 Detalhes1 Group13 Group12 Group1 Model
+    100270: Mesh18 Detalhes2 Group13 Group12 Group1 Model
+    100272: Mesh19 Group13 Group12 Group1 Model
+    100274: Mesh2 Group4 Rod_zio1 Group2 Group1 Model
+    100276: Mesh20 Group14 Group12 Group1 Model
+    100278: Mesh21 Ombros_1_1 Group12 Group1 Model
+    100280: Mesh22 Ombros_1_2 Group12 Group1 Model
+    100282: Mesh3 Group5 Rod_zio1 Group2 Group1 Model
+    100284: Mesh4 Group6 Rod_zio1 Group2 Group1 Model
+    100286: Mesh5 Group7 Rod_zio1 Group2 Group1 Model
+    100288: Mesh6 Suporte1 Group8 Rod_zio1 Group2 Group1 Model
+    100290: Mesh7 Suporte2 Group8 Rod_zio1 Group2 Group1 Model
+    100292: Mesh8 Roda_1_1 Group9 Rod_zio1 Group2 Group1 Model
+    100294: Mesh9 Roda_1_2 Group9 Rod_zio1 Group2 Group1 Model
+    100296: //RootNode
+    400000: Key100
+    400002: Key101
+    400004: Key102
+    400006: Key103
+    400008: Key104
+    400010: Key105
+    400012: Key106
+    400014: Key107
+    400016: Key108
+    400018: Key21
+    400020: Key22
+    400022: Key23
+    400024: Key24
+    400026: Key25
+    400028: Key26
+    400030: Key27
+    400032: Key28
+    400034: Key29
+    400036: Key30
+    400038: Key31
+    400040: Key32
+    400042: Key33
+    400044: Key34
+    400046: Key35
+    400048: Key36
+    400050: Key37
+    400052: Key38
+    400054: Key39
+    400056: Key40
+    400058: Key41
+    400060: Key42
+    400062: Key43
+    400064: Key44
+    400066: Key45
+    400068: Key46
+    400070: Key47
+    400072: Key48
+    400074: key49
+    400076: Key50
+    400078: Key51
+    400080: Key52
+    400082: Key53
+    400084: Key54
+    400086: Key55
+    400088: Key56
+    400090: Key57
+    400092: Key58
+    400094: Key59
+    400096: Key60
+    400098: Key61
+    400100: Key62
+    400102: Key63
+    400104: Key64
+    400106: Key65
+    400108: Key66
+    400110: Key67
+    400112: Key68
+    400114: Key69
+    400116: Key70
+    400118: Key71
+    400120: Key72
+    400122: Key73
+    400124: Key74
+    400126: Key75
+    400128: Key76
+    400130: Key77
+    400132: Key78
+    400134: Key79
+    400136: Key80
+    400138: Key81
+    400140: Key82
+    400142: Key83
+    400144: Key84
+    400146: Key85
+    400148: Key86
+    400150: Key87
+    400152: Key88
+    400154: Key89
+    400156: Key90
+    400158: Key91
+    400160: Key92
+    400162: Key93
+    400164: key94
+    400166: Key95
+    400168: Key96
+    400170: Key97
+    400172: Key98
+    400174: key99
+    400176: Mesh1 Group3 Group2 Group1 Model
+    400178: Mesh10 Roda_1_3 Group10 Rod_zio1 Group2 Group1 Model
+    400180: Mesh11 Roda_1_4 Group10 Rod_zio1 Group2 Group1 Model
+    400182: Mesh111 Group18 Group1 Model
+    400184: Mesh112 Group20 Group19 Group1 Model
+    400186: Mesh113 book2_1 Group19 Group1 Model
+    400188: Mesh114 Pe_a1 Group19 Group1 Model
+    400190: Mesh115 Pe_a2 Group19 Group1 Model
+    400192: Mesh116 Group22 Group21 Group1 Model
+    400194: Mesh117 Group23 Group21 Group1 Model
+    400196: Mesh118 cover1 Group1 Model
+    400198: Mesh119 petals1 Group1 Model
+    400200: Mesh12 Barra1 Group11 Group1 Model
+    400202: Mesh120 petals1 Group1 Model
+    400204: Mesh121 petals1 Group1 Model
+    400206: Mesh122 Group25 Group24 petbox1 Group1 Model
+    400208: Mesh123 Group26 Group24 petbox1 Group1 Model
+    400210: Mesh124 Suporte__pedal_1 Group24 petbox1 Group1 Model
+    400212: Mesh125 Suporte__pedal_2 Group24 petbox1 Group1 Model
+    400214: Mesh126 Group28 Rod_zio2 Group27 Perna1 Group1 Model
+    400216: Mesh127 Group29 Rod_zio2 Group27 Perna1 Group1 Model
+    400218: Mesh128 Group30 Rod_zio2 Group27 Perna1 Group1 Model
+    400220: Mesh129 Group31 Rod_zio2 Group27 Perna1 Group1 Model
+    400222: Mesh13 Barra2 Group11 Group1 Model
+    400224: Mesh130 Suporte3 Group32 Rod_zio2 Group27 Perna1 Group1 Model
+    400226: Mesh131 Suporte4 Group32 Rod_zio2 Group27 Perna1 Group1 Model
+    400228: Mesh132 Roda_1_5 Group33 Rod_zio2 Group27 Perna1 Group1 Model
+    400230: Mesh133 Roda_1_6 Group33 Rod_zio2 Group27 Perna1 Group1 Model
+    400232: Mesh134 Roda_1_7 Group34 Rod_zio2 Group27 Perna1 Group1 Model
+    400234: Mesh135 Roda_1_8 Group34 Rod_zio2 Group27 Perna1 Group1 Model
+    400236: Mesh136 Group27 Perna1 Group1 Model
+    400238: Mesh137 Group36 Rod_zio3 Group35 Perna2 Group1 Model
+    400240: Mesh138 Group37 Rod_zio3 Group35 Perna2 Group1 Model
+    400242: Mesh139 Group38 Rod_zio3 Group35 Perna2 Group1 Model
+    400244: Mesh14 Barra3 Group11 Group1 Model
+    400246: Mesh140 Group39 Rod_zio3 Group35 Perna2 Group1 Model
+    400248: Mesh141 Suporte5 Group40 Rod_zio3 Group35 Perna2 Group1 Model
+    400250: Mesh142 Suporte6 Group40 Rod_zio3 Group35 Perna2 Group1 Model
+    400252: Mesh143 Roda_1_9 Group41 Rod_zio3 Group35 Perna2 Group1 Model
+    400254: Mesh144 Roda_1_10 Group41 Rod_zio3 Group35 Perna2 Group1 Model
+    400256: Mesh145 Roda_1_11 Group42 Rod_zio3 Group35 Perna2 Group1 Model
+    400258: Mesh146 Roda_1_12 Group42 Rod_zio3 Group35 Perna2 Group1 Model
+    400260: Mesh147 Group35 Perna2 Group1 Model
+    400262: Mesh148 legs1 Group1 Model
+    400264: Mesh15 Barra4 Group11 Group1 Model
+    400266: Mesh16 Barra5 Group11 Group1 Model
+    400268: Mesh17 Detalhes1 Group13 Group12 Group1 Model
+    400270: Mesh18 Detalhes2 Group13 Group12 Group1 Model
+    400272: Mesh19 Group13 Group12 Group1 Model
+    400274: Mesh2 Group4 Rod_zio1 Group2 Group1 Model
+    400276: Mesh20 Group14 Group12 Group1 Model
+    400278: Mesh21 Ombros_1_1 Group12 Group1 Model
+    400280: Mesh22 Ombros_1_2 Group12 Group1 Model
+    400282: Mesh3 Group5 Rod_zio1 Group2 Group1 Model
+    400284: Mesh4 Group6 Rod_zio1 Group2 Group1 Model
+    400286: Mesh5 Group7 Rod_zio1 Group2 Group1 Model
+    400288: Mesh6 Suporte1 Group8 Rod_zio1 Group2 Group1 Model
+    400290: Mesh7 Suporte2 Group8 Rod_zio1 Group2 Group1 Model
+    400292: Mesh8 Roda_1_1 Group9 Rod_zio1 Group2 Group1 Model
+    400294: Mesh9 Roda_1_2 Group9 Rod_zio1 Group2 Group1 Model
+    400296: //RootNode
+    2300000: Key100
+    2300002: Key101
+    2300004: Key102
+    2300006: Key103
+    2300008: Key104
+    2300010: Key105
+    2300012: Key106
+    2300014: Key107
+    2300016: Key108
+    2300018: Key21
+    2300020: Key22
+    2300022: Key23
+    2300024: Key24
+    2300026: Key25
+    2300028: Key26
+    2300030: Key27
+    2300032: Key28
+    2300034: Key29
+    2300036: Key30
+    2300038: Key31
+    2300040: Key32
+    2300042: Key33
+    2300044: Key34
+    2300046: Key35
+    2300048: Key36
+    2300050: Key37
+    2300052: Key38
+    2300054: Key39
+    2300056: Key40
+    2300058: Key41
+    2300060: Key42
+    2300062: Key43
+    2300064: Key44
+    2300066: Key45
+    2300068: Key46
+    2300070: Key47
+    2300072: Key48
+    2300074: key49
+    2300076: Key50
+    2300078: Key51
+    2300080: Key52
+    2300082: Key53
+    2300084: Key54
+    2300086: Key55
+    2300088: Key56
+    2300090: Key57
+    2300092: Key58
+    2300094: Key59
+    2300096: Key60
+    2300098: Key61
+    2300100: Key62
+    2300102: Key63
+    2300104: Key64
+    2300106: Key65
+    2300108: Key66
+    2300110: Key67
+    2300112: Key68
+    2300114: Key69
+    2300116: Key70
+    2300118: Key71
+    2300120: Key72
+    2300122: Key73
+    2300124: Key74
+    2300126: Key75
+    2300128: Key76
+    2300130: Key77
+    2300132: Key78
+    2300134: Key79
+    2300136: Key80
+    2300138: Key81
+    2300140: Key82
+    2300142: Key83
+    2300144: Key84
+    2300146: Key85
+    2300148: Key86
+    2300150: Key87
+    2300152: Key88
+    2300154: Key89
+    2300156: Key90
+    2300158: Key91
+    2300160: Key92
+    2300162: Key93
+    2300164: key94
+    2300166: Key95
+    2300168: Key96
+    2300170: Key97
+    2300172: Key98
+    2300174: key99
+    2300176: Mesh1 Group3 Group2 Group1 Model
+    2300178: Mesh10 Roda_1_3 Group10 Rod_zio1 Group2 Group1 Model
+    2300180: Mesh11 Roda_1_4 Group10 Rod_zio1 Group2 Group1 Model
+    2300182: Mesh111 Group18 Group1 Model
+    2300184: Mesh112 Group20 Group19 Group1 Model
+    2300186: Mesh113 book2_1 Group19 Group1 Model
+    2300188: Mesh114 Pe_a1 Group19 Group1 Model
+    2300190: Mesh115 Pe_a2 Group19 Group1 Model
+    2300192: Mesh116 Group22 Group21 Group1 Model
+    2300194: Mesh117 Group23 Group21 Group1 Model
+    2300196: Mesh118 cover1 Group1 Model
+    2300198: Mesh119 petals1 Group1 Model
+    2300200: Mesh12 Barra1 Group11 Group1 Model
+    2300202: Mesh120 petals1 Group1 Model
+    2300204: Mesh121 petals1 Group1 Model
+    2300206: Mesh122 Group25 Group24 petbox1 Group1 Model
+    2300208: Mesh123 Group26 Group24 petbox1 Group1 Model
+    2300210: Mesh124 Suporte__pedal_1 Group24 petbox1 Group1 Model
+    2300212: Mesh125 Suporte__pedal_2 Group24 petbox1 Group1 Model
+    2300214: Mesh126 Group28 Rod_zio2 Group27 Perna1 Group1 Model
+    2300216: Mesh127 Group29 Rod_zio2 Group27 Perna1 Group1 Model
+    2300218: Mesh128 Group30 Rod_zio2 Group27 Perna1 Group1 Model
+    2300220: Mesh129 Group31 Rod_zio2 Group27 Perna1 Group1 Model
+    2300222: Mesh13 Barra2 Group11 Group1 Model
+    2300224: Mesh130 Suporte3 Group32 Rod_zio2 Group27 Perna1 Group1 Model
+    2300226: Mesh131 Suporte4 Group32 Rod_zio2 Group27 Perna1 Group1 Model
+    2300228: Mesh132 Roda_1_5 Group33 Rod_zio2 Group27 Perna1 Group1 Model
+    2300230: Mesh133 Roda_1_6 Group33 Rod_zio2 Group27 Perna1 Group1 Model
+    2300232: Mesh134 Roda_1_7 Group34 Rod_zio2 Group27 Perna1 Group1 Model
+    2300234: Mesh135 Roda_1_8 Group34 Rod_zio2 Group27 Perna1 Group1 Model
+    2300236: Mesh136 Group27 Perna1 Group1 Model
+    2300238: Mesh137 Group36 Rod_zio3 Group35 Perna2 Group1 Model
+    2300240: Mesh138 Group37 Rod_zio3 Group35 Perna2 Group1 Model
+    2300242: Mesh139 Group38 Rod_zio3 Group35 Perna2 Group1 Model
+    2300244: Mesh14 Barra3 Group11 Group1 Model
+    2300246: Mesh140 Group39 Rod_zio3 Group35 Perna2 Group1 Model
+    2300248: Mesh141 Suporte5 Group40 Rod_zio3 Group35 Perna2 Group1 Model
+    2300250: Mesh142 Suporte6 Group40 Rod_zio3 Group35 Perna2 Group1 Model
+    2300252: Mesh143 Roda_1_9 Group41 Rod_zio3 Group35 Perna2 Group1 Model
+    2300254: Mesh144 Roda_1_10 Group41 Rod_zio3 Group35 Perna2 Group1 Model
+    2300256: Mesh145 Roda_1_11 Group42 Rod_zio3 Group35 Perna2 Group1 Model
+    2300258: Mesh146 Roda_1_12 Group42 Rod_zio3 Group35 Perna2 Group1 Model
+    2300260: Mesh147 Group35 Perna2 Group1 Model
+    2300262: Mesh148 legs1 Group1 Model
+    2300264: Mesh15 Barra4 Group11 Group1 Model
+    2300266: Mesh16 Barra5 Group11 Group1 Model
+    2300268: Mesh17 Detalhes1 Group13 Group12 Group1 Model
+    2300270: Mesh18 Detalhes2 Group13 Group12 Group1 Model
+    2300272: Mesh19 Group13 Group12 Group1 Model
+    2300274: Mesh2 Group4 Rod_zio1 Group2 Group1 Model
+    2300276: Mesh20 Group14 Group12 Group1 Model
+    2300278: Mesh21 Ombros_1_1 Group12 Group1 Model
+    2300280: Mesh22 Ombros_1_2 Group12 Group1 Model
+    2300282: Mesh3 Group5 Rod_zio1 Group2 Group1 Model
+    2300284: Mesh4 Group6 Rod_zio1 Group2 Group1 Model
+    2300286: Mesh5 Group7 Rod_zio1 Group2 Group1 Model
+    2300288: Mesh6 Suporte1 Group8 Rod_zio1 Group2 Group1 Model
+    2300290: Mesh7 Suporte2 Group8 Rod_zio1 Group2 Group1 Model
+    2300292: Mesh8 Roda_1_1 Group9 Rod_zio1 Group2 Group1 Model
+    2300294: Mesh9 Roda_1_2 Group9 Rod_zio1 Group2 Group1 Model
+    3300000: Key100
+    3300002: Key101
+    3300004: Key102
+    3300006: Key103
+    3300008: Key104
+    3300010: Key105
+    3300012: Key106
+    3300014: Key107
+    3300016: Key108
+    3300018: Key21
+    3300020: Key22
+    3300022: Key23
+    3300024: Key24
+    3300026: Key25
+    3300028: Key26
+    3300030: Key27
+    3300032: Key28
+    3300034: Key29
+    3300036: Key30
+    3300038: Key31
+    3300040: Key32
+    3300042: Key33
+    3300044: Key34
+    3300046: Key35
+    3300048: Key36
+    3300050: Key37
+    3300052: Key38
+    3300054: Key39
+    3300056: Key40
+    3300058: Key41
+    3300060: Key42
+    3300062: Key43
+    3300064: Key44
+    3300066: Key45
+    3300068: Key46
+    3300070: Key47
+    3300072: Key48
+    3300074: key49
+    3300076: Key50
+    3300078: Key51
+    3300080: Key52
+    3300082: Key53
+    3300084: Key54
+    3300086: Key55
+    3300088: Key56
+    3300090: Key57
+    3300092: Key58
+    3300094: Key59
+    3300096: Key60
+    3300098: Key61
+    3300100: Key62
+    3300102: Key63
+    3300104: Key64
+    3300106: Key65
+    3300108: Key66
+    3300110: Key67
+    3300112: Key68
+    3300114: Key69
+    3300116: Key70
+    3300118: Key71
+    3300120: Key72
+    3300122: Key73
+    3300124: Key74
+    3300126: Key75
+    3300128: Key76
+    3300130: Key77
+    3300132: Key78
+    3300134: Key79
+    3300136: Key80
+    3300138: Key81
+    3300140: Key82
+    3300142: Key83
+    3300144: Key84
+    3300146: Key85
+    3300148: Key86
+    3300150: Key87
+    3300152: Key88
+    3300154: Key89
+    3300156: Key90
+    3300158: Key91
+    3300160: Key92
+    3300162: Key93
+    3300164: key94
+    3300166: Key95
+    3300168: Key96
+    3300170: Key97
+    3300172: Key98
+    3300174: key99
+    3300176: Mesh1 Group3 Group2 Group1 Model
+    3300178: Mesh10 Roda_1_3 Group10 Rod_zio1 Group2 Group1 Model
+    3300180: Mesh11 Roda_1_4 Group10 Rod_zio1 Group2 Group1 Model
+    3300182: Mesh111 Group18 Group1 Model
+    3300184: Mesh112 Group20 Group19 Group1 Model
+    3300186: Mesh113 book2_1 Group19 Group1 Model
+    3300188: Mesh114 Pe_a1 Group19 Group1 Model
+    3300190: Mesh115 Pe_a2 Group19 Group1 Model
+    3300192: Mesh116 Group22 Group21 Group1 Model
+    3300194: Mesh117 Group23 Group21 Group1 Model
+    3300196: Mesh118 cover1 Group1 Model
+    3300198: Mesh119 petals1 Group1 Model
+    3300200: Mesh12 Barra1 Group11 Group1 Model
+    3300202: Mesh120 petals1 Group1 Model
+    3300204: Mesh121 petals1 Group1 Model
+    3300206: Mesh122 Group25 Group24 petbox1 Group1 Model
+    3300208: Mesh123 Group26 Group24 petbox1 Group1 Model
+    3300210: Mesh124 Suporte__pedal_1 Group24 petbox1 Group1 Model
+    3300212: Mesh125 Suporte__pedal_2 Group24 petbox1 Group1 Model
+    3300214: Mesh126 Group28 Rod_zio2 Group27 Perna1 Group1 Model
+    3300216: Mesh127 Group29 Rod_zio2 Group27 Perna1 Group1 Model
+    3300218: Mesh128 Group30 Rod_zio2 Group27 Perna1 Group1 Model
+    3300220: Mesh129 Group31 Rod_zio2 Group27 Perna1 Group1 Model
+    3300222: Mesh13 Barra2 Group11 Group1 Model
+    3300224: Mesh130 Suporte3 Group32 Rod_zio2 Group27 Perna1 Group1 Model
+    3300226: Mesh131 Suporte4 Group32 Rod_zio2 Group27 Perna1 Group1 Model
+    3300228: Mesh132 Roda_1_5 Group33 Rod_zio2 Group27 Perna1 Group1 Model
+    3300230: Mesh133 Roda_1_6 Group33 Rod_zio2 Group27 Perna1 Group1 Model
+    3300232: Mesh134 Roda_1_7 Group34 Rod_zio2 Group27 Perna1 Group1 Model
+    3300234: Mesh135 Roda_1_8 Group34 Rod_zio2 Group27 Perna1 Group1 Model
+    3300236: Mesh136 Group27 Perna1 Group1 Model
+    3300238: Mesh137 Group36 Rod_zio3 Group35 Perna2 Group1 Model
+    3300240: Mesh138 Group37 Rod_zio3 Group35 Perna2 Group1 Model
+    3300242: Mesh139 Group38 Rod_zio3 Group35 Perna2 Group1 Model
+    3300244: Mesh14 Barra3 Group11 Group1 Model
+    3300246: Mesh140 Group39 Rod_zio3 Group35 Perna2 Group1 Model
+    3300248: Mesh141 Suporte5 Group40 Rod_zio3 Group35 Perna2 Group1 Model
+    3300250: Mesh142 Suporte6 Group40 Rod_zio3 Group35 Perna2 Group1 Model
+    3300252: Mesh143 Roda_1_9 Group41 Rod_zio3 Group35 Perna2 Group1 Model
+    3300254: Mesh144 Roda_1_10 Group41 Rod_zio3 Group35 Perna2 Group1 Model
+    3300256: Mesh145 Roda_1_11 Group42 Rod_zio3 Group35 Perna2 Group1 Model
+    3300258: Mesh146 Roda_1_12 Group42 Rod_zio3 Group35 Perna2 Group1 Model
+    3300260: Mesh147 Group35 Perna2 Group1 Model
+    3300262: Mesh148 legs1 Group1 Model
+    3300264: Mesh15 Barra4 Group11 Group1 Model
+    3300266: Mesh16 Barra5 Group11 Group1 Model
+    3300268: Mesh17 Detalhes1 Group13 Group12 Group1 Model
+    3300270: Mesh18 Detalhes2 Group13 Group12 Group1 Model
+    3300272: Mesh19 Group13 Group12 Group1 Model
+    3300274: Mesh2 Group4 Rod_zio1 Group2 Group1 Model
+    3300276: Mesh20 Group14 Group12 Group1 Model
+    3300278: Mesh21 Ombros_1_1 Group12 Group1 Model
+    3300280: Mesh22 Ombros_1_2 Group12 Group1 Model
+    3300282: Mesh3 Group5 Rod_zio1 Group2 Group1 Model
+    3300284: Mesh4 Group6 Rod_zio1 Group2 Group1 Model
+    3300286: Mesh5 Group7 Rod_zio1 Group2 Group1 Model
+    3300288: Mesh6 Suporte1 Group8 Rod_zio1 Group2 Group1 Model
+    3300290: Mesh7 Suporte2 Group8 Rod_zio1 Group2 Group1 Model
+    3300292: Mesh8 Roda_1_1 Group9 Rod_zio1 Group2 Group1 Model
+    3300294: Mesh9 Roda_1_2 Group9 Rod_zio1 Group2 Group1 Model
+    4300000: Key76
+    4300002: Key74
+    4300004: Mesh145 Roda_1_11 Group42 Rod_zio3 Group35 Perna2 Group1 Model
+    4300006: Key72
+    4300008: Key82
+    4300010: Key58
+    4300012: Mesh116 Group22 Group21 Group1 Model
+    4300014: Key43
+    4300016: Key45
+    4300018: Mesh17 Detalhes1 Group13 Group12 Group1 Model
+    4300020: Mesh140 Group39 Rod_zio3 Group35 Perna2 Group1 Model
+    4300022: Key89
+    4300024: Mesh19 Group13 Group12 Group1 Model
+    4300026: key49
+    4300028: Mesh120 petals1 Group1 Model
+    4300030: Key41
+    4300032: Mesh111 Group18 Group1 Model
+    4300034: Mesh118 cover1 Group1 Model
+    4300036: Key87
+    4300038: Key55
+    4300040: Key33
+    4300042: Key91
+    4300044: Key97
+    4300046: Mesh11 Roda_1_4 Group10 Rod_zio1 Group2 Group1 Model
+    4300048: Key30
+    4300050: Mesh6 Suporte1 Group8 Rod_zio1 Group2 Group1 Model
+    4300052: Mesh21 Ombros_1_1 Group12 Group1 Model
+    4300054: Mesh139 Group38 Rod_zio3 Group35 Perna2 Group1 Model
+    4300056: Mesh142 Suporte6 Group40 Rod_zio3 Group35 Perna2 Group1 Model
+    4300058: Key59
+    4300060: Mesh148 legs1 Group1 Model
+    4300062: Key28
+    4300064: Mesh137 Group36 Rod_zio3 Group35 Perna2 Group1 Model
+    4300066: Key56
+    4300068: Key63
+    4300070: Mesh114 Pe_a1 Group19 Group1 Model
+    4300072: Mesh122 Group25 Group24 petbox1 Group1 Model
+    4300074: Key85
+    4300076: Mesh119 petals1 Group1 Model
+    4300078: Key92
+    4300080: Key103
+    4300082: Mesh10 Roda_1_3 Group10 Rod_zio1 Group2 Group1 Model
+    4300084: Mesh128 Group30 Rod_zio2 Group27 Perna1 Group1 Model
+    4300086: Key36
+    4300088: Mesh115 Pe_a2 Group19 Group1 Model
+    4300090: Mesh143 Roda_1_9 Group41 Rod_zio3 Group35 Perna2 Group1 Model
+    4300092: Key79
+    4300094: Key42
+    4300096: Key50
+    4300098: Mesh121 petals1 Group1 Model
+    4300100: Key86
+    4300102: Key34
+    4300104: Key53
+    4300106: Key70
+    4300108: Key93
+    4300110: Key31
+    4300112: Mesh117 Group23 Group21 Group1 Model
+    4300114: Mesh8 Roda_1_1 Group9 Rod_zio1 Group2 Group1 Model
+    4300116: Key106
+    4300118: Key40
+    4300120: Key57
+    4300122: Mesh9 Roda_1_2 Group9 Rod_zio1 Group2 Group1 Model
+    4300124: Key52
+    4300126: Key65
+    4300128: Key67
+    4300130: Key29
+    4300132: Key107
+    4300134: Mesh126 Group28 Rod_zio2 Group27 Perna1 Group1 Model
+    4300136: Mesh135 Roda_1_8 Group34 Rod_zio2 Group27 Perna1 Group1 Model
+    4300138: Mesh144 Roda_1_10 Group41 Rod_zio3 Group35 Perna2 Group1 Model
+    4300140: Mesh113 book2_1 Group19 Group1 Model
+    4300142: Key98
+    4300144: Mesh5 Group7 Rod_zio1 Group2 Group1 Model
+    4300146: Key61
+    4300148: Key62
+    4300150: Key22
+    4300152: Key54
+    4300154: Key81
+    4300156: Key83
+    4300158: Key35
+    4300160: Mesh125 Suporte__pedal_2 Group24 petbox1 Group1 Model
+    4300162: Mesh127 Group29 Rod_zio2 Group27 Perna1 Group1 Model
+    4300164: Key96
+    4300166: Mesh18 Detalhes2 Group13 Group12 Group1 Model
+    4300168: Mesh14 Barra3 Group11 Group1 Model
+    4300170: Mesh134 Roda_1_7 Group34 Rod_zio2 Group27 Perna1 Group1 Model
+    4300172: Key95
+    4300174: key99
+    4300176: Key69
+    4300178: Key27
+    4300180: Mesh130 Suporte3 Group32 Rod_zio2 Group27 Perna1 Group1 Model
+    4300182: Key102
+    4300184: Key90
+    4300186: Mesh133 Roda_1_6 Group33 Rod_zio2 Group27 Perna1 Group1 Model
+    4300188: Mesh112 Group20 Group19 Group1 Model
+    4300190: Key84
+    4300192: Mesh15 Barra4 Group11 Group1 Model
+    4300194: Key71
+    4300196: Key108
+    4300198: Mesh22 Ombros_1_2 Group12 Group1 Model
+    4300200: Mesh136 Group27 Perna1 Group1 Model
+    4300202: Key51
+    4300204: Key73
+    4300206: Key104
+    4300208: Mesh146 Roda_1_12 Group42 Rod_zio3 Group35 Perna2 Group1 Model
+    4300210: Mesh129 Group31 Rod_zio2 Group27 Perna1 Group1 Model
+    4300212: Mesh2 Group4 Rod_zio1 Group2 Group1 Model
+    4300214: Key78
+    4300216: Mesh131 Suporte4 Group32 Rod_zio2 Group27 Perna1 Group1 Model
+    4300218: Key66
+    4300220: Mesh20 Group14 Group12 Group1 Model
+    4300222: Key24
+    4300224: Key105
+    4300226: Mesh123 Group26 Group24 petbox1 Group1 Model
+    4300228: Mesh16 Barra5 Group11 Group1 Model
+    4300230: Mesh1 Group3 Group2 Group1 Model
+    4300232: Key88
+    4300234: Mesh138 Group37 Rod_zio3 Group35 Perna2 Group1 Model
+    4300236: Key47
+    4300238: Key37
+    4300240: Key60
+    4300242: Key21
+    4300244: Key68
+    4300246: Key46
+    4300248: Mesh132 Roda_1_5 Group33 Rod_zio2 Group27 Perna1 Group1 Model
+    4300250: Key39
+    4300252: Mesh147 Group35 Perna2 Group1 Model
+    4300254: Mesh3 Group5 Rod_zio1 Group2 Group1 Model
+    4300256: Key80
+    4300258: Key75
+    4300260: Mesh141 Suporte5 Group40 Rod_zio3 Group35 Perna2 Group1 Model
+    4300262: Key26
+    4300264: Key44
+    4300266: Key101
+    4300268: Key64
+    4300270: Key32
+    4300272: key94
+    4300274: Key100
+    4300276: Key23
+    4300278: Key38
+    4300280: Mesh124 Suporte__pedal_1 Group24 petbox1 Group1 Model
+    4300282: Key25
+    4300284: Key48
+    4300286: Mesh4 Group6 Rod_zio1 Group2 Group1 Model
+    4300288: Mesh7 Suporte2 Group8 Rod_zio1 Group2 Group1 Model
+    4300290: Mesh13 Barra2 Group11 Group1 Model
+    4300292: Mesh12 Barra1 Group11 Group1 Model
+    4300294: Key77
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
